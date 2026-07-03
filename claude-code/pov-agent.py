@@ -211,6 +211,11 @@ def main():
         print("(Website unreachable — Claude will use training knowledge.)")
 
     pov = call_api(api_key, build_prompt(company, url, product, website_text))
+
+    print("\n" + "=" * 80)
+    print(pov)
+    print("=" * 80 + "\n")
+
     path = save(company, pov)
 
     print(f"Done. Saved to: {path}\n")
