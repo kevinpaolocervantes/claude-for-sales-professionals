@@ -1,49 +1,78 @@
 # Claude for Sales Professionals
 
-Practical workflows, prompts, and Claude Code playbooks for modern sales professionals.
+> **Open-source AI tools, workflows, and Claude Code playbooks for modern B2B sales professionals.**
 
-## Why This Repository Exists
+AI is becoming an essential part of the modern sales stack.
 
-AI is rapidly becoming part of the modern sales stack.
+This repository explores practical ways sales professionals can use Claude and Claude Code to research accounts, prepare for customer conversations, automate repetitive work, and make better decisions throughout the sales cycle.
 
-This repository documents practical ways sales professionals can use Claude and Claude Code to:
+The goal isn't to replace salespeople.
 
-- Research accounts
-- Prepare for discovery calls
-- Analyze opportunities
-- Generate executive briefs
-- Build territory plans
-- Automate repetitive work
-- Learn AI-powered workflows
+The goal is to help them spend more time building relationships, solving customer problems, and creating value.
 
-The goal is not to replace salespeople.
+---
 
-The goal is to help salespeople operate at a higher level.
+## What You'll Find
+
+- 💼 Account research
+- 🎯 Opportunity analysis
+- 📞 Discovery call preparation
+- 🗺️ Territory planning
+- 📊 Executive brief generation
+- ⚡ Sales automation workflows
+- 🤖 Claude Code examples
+- 📝 Prompt libraries
+
+---
 
 ## Repository Structure
 
+```
 /prompts
 /workflows
 /claude-code
 /examples
+```
+
+---
 
 ## Featured Workflows
 
 ### Account Research
-Generate executive-level account briefs in minutes.
+Generate executive-ready account briefs from public information.
 
 ### Opportunity Analysis
-Identify risks, blockers, and next steps in active deals.
+Identify risks, blockers, competitive threats, and recommended next steps.
 
 ### Territory Planning
-Segment accounts and prioritize outreach.
+Prioritize accounts and identify the highest-value opportunities.
 
-### Call Preparation
-Create personalized discovery plans before meetings.
+### Discovery Preparation
+Create personalized discovery plans before every customer meeting.
 
 ### Pipeline Reviews
-Analyze deal health and forecast risk.
+Evaluate deal health, forecast risk, and uncover blind spots.
+
+---
+
+## Why Open Source?
+
+AI is changing how sales teams work.
+
+This repository is a place to share experiments, workflows, and practical tools that help sales professionals become more effective with AI.
+
+Whether you're an SDR, Account Executive, Sales Engineer, or Revenue Leader, the goal is to make AI more accessible and immediately useful.
+
+---
 
 ## Contributing
 
-New workflows, prompts, and examples are added regularly as part of an ongoing learning journey into AI-assisted sales.
+Contributions, feedback, and new workflow ideas are always welcome.
+
+New prompts, tools, and Claude Code examples will be added regularly as the project evolves.
+
+---
+
+## License
+
+MIT License
