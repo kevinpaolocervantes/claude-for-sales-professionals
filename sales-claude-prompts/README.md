@@ -2,7 +2,7 @@
 
 **Ten production-grade sales prompts for Claude — plus a CLI to run them.**
 
-This is the 10X version of a handwritten cheat sheet. Each prompt is a carefully-engineered template with role priming, explicit input schemas, output contracts, and guardrails that keep the model from drifting into generic sales fluff. Point them at your deals, your transcripts, your pipeline, and get specific, named, actionable output — not "build more rapport."
+Each prompt is a carefully-engineered template with role priming, explicit input schemas, output contracts, and guardrails that keep the model from drifting into generic sales fluff. Point them at your deals, your transcripts, your pipeline, and get specific, named, actionable output — not "build more rapport."
 
 ---
 
