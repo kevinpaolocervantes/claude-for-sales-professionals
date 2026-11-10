@@ -1,0 +1,4 @@
+{
+  "deal_context": "Enterprise expansion deal with Rippling. $450k ARR renewal plus a $280k upsell for the new revenue intelligence module. 14-month sales cycle originally; this is the 2-year renewal conversation. Economic buyer is the CRO (Laura Chen). Procurement and Legal are both looped in. Competitor in the mix is Gong — they've been talking to Rippling's Enablement lead for 3 months. Current health: yellow. Last QBR had two open action items we committed to and only closed one.",
+  "call_transcript": "REPLACE_WITH_@path/to/transcript.txt — use @./transcripts/rippling-renewal-call.txt at runtime to load a real transcript from disk. The CLI's --input flag supports @filename syntax for long inputs like this."
+}
